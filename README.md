@@ -2,9 +2,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Screenshot
 
 * IOS 
+
 ![image](https://github.com/user-attachments/assets/c15864da-0677-49d8-a24f-c3936fbb72cc)
 
-# Android
+* Android
+
 ![image](https://github.com/user-attachments/assets/b6ec150c-b4a3-4182-b656-bcb12e80722c)
 
 
